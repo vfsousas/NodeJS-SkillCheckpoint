@@ -1,0 +1,79 @@
+[
+// /get
+// /get/:id
+{
+  "name": "GUSTAVO VIERA",
+  "skills": [ 
+    {
+      "dimensionId" : "874363443",
+      "dimensionName": "Mobile",
+      "subdimension" : [ 
+        {
+          "subdimensionId" : "7645454",
+          "subdimensionName": "IOS",
+          "level" : "ENTRY"
+        }, 
+        {
+          "subdimensionId" : "88888",
+          "subdimensionName": "Android",
+          "level" : "Senior"
+        }
+      ]
+    },
+    {
+      "dimensionId" : "999999",
+      "dimensionName": "Cloud",
+      "subdimension" : [ 
+        {
+          "subdimensionId" : "666666",
+          "subdimensionName": "Bluemix",
+          "level" : "Junior"
+        }, 
+        {
+          "subdimensionId" : "555555",
+          "subdimensionName": "Devops",
+          "level" : "Intermediate"
+        }
+      ]
+    }
+  ]
+},
+
+
+// /delete/:id
+
+// /post
+// /put/:id
+{
+  "_id": "59c589bb05457911d8d0b4b4",
+  "name": "GUSTAVO VIERA",
+  "skills": [ 
+    {
+      "dimensionId" : "874363443",
+      "subdimension" : [ 
+        {
+          "subdimensionId" : "7645454",
+          "level" : "ENTRY"
+        }, 
+        {
+          "subdimensionId" : "88888",
+          "level" : "Senior"
+        }
+      ]
+    },
+    {
+      "dimensionId" : "999999",
+      "subdimension" : [ 
+        {
+          "subdimensionId" : "666666",
+          "level" : "Junior"
+        }, 
+        {
+          "subdimensionId" : "555555",
+          "level" : "Intermediate"
+        }
+      ]
+    }
+  ]
+}
+]

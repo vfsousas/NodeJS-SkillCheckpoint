@@ -1,0 +1,119 @@
+[
+  {
+    "dimension": "Technical Delivery",
+    "subdimensions": [
+      {
+        "name": "Planning",
+        "entry": 10,
+        "foundation": 4,
+        "experienced": 15,
+        "expert": 1,
+        "thought_leader": 4
+      },
+      {
+        "name": "Execution",
+        "entry": 5,
+        "foundation":24,
+        "experienced": 5,
+        "expert":3,
+        "thought_leader": 1
+      },
+      {
+        "name": "Closure",
+        "entry": 15,
+        "foundation":2,
+        "experienced": 5,
+        "expert":2,
+        "thought_leader": 1
+      }
+    ]
+  },
+  {
+    "dimension": "Business Awareness",
+    "subdimensions": [
+      {
+        "name": "L-DTV",
+        "entry": 10,
+        "foundation": 4,
+        "experienced": 15,
+        "expert": 1,
+        "thought_leader": 4
+      },
+      {
+        "name": "AT&T",
+        "entry": 5,
+        "foundation":24,
+        "experienced": 5,
+        "expert":3,
+        "thought_leader": 1
+      }
+    ]
+  },
+  {
+    "dimension": "Leadership",
+    "subdimensions": [
+      {
+        "name": "Communication",
+        "entry": 10,
+        "foundation": 4,
+        "experienced": 15,
+        "expert": 1,
+        "thought_leader": 4
+      },
+      {
+        "name": "Client Relationship",
+        "entry": 5,
+        "foundation":24,
+        "experienced": 5,
+        "expert":3,
+        "thought_leader": 1
+      },
+      {
+        "name": "Coaching",
+        "entry": 15,
+        "foundation":2,
+        "experienced": 5,
+        "expert":2,
+        "thought_leader": 1
+      }
+    ]
+  },
+  {
+    "dimension": "Strategic Accelerators",
+    "subdimensions": [
+      {
+        "name": "Collaboraition",
+        "entry": 10,
+        "foundation": 4,
+        "experienced": 15,
+        "expert": 1,
+        "thought_leader": 4
+      },
+      {
+        "name": "Acc Initiatives",
+        "entry": 5,
+        "foundation":24,
+        "experienced": 5,
+        "expert":3,
+        "thought_leader": 1
+      },
+      {
+        "name": "Auto Coding",
+        "entry": 15,
+        "foundation":2,
+        "experienced": 5,
+        "expert":2,
+        "thought_leader": 1
+      },
+      {
+        "name": "Auto Execution",
+        "entry": 15,
+        "foundation":2,
+        "experienced": 5,
+        "expert":2,
+        "thought_leader": 1
+      }
+    ]
+  }
+]
+

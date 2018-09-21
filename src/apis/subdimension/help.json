@@ -1,0 +1,62 @@
+[
+    {   
+    "address": "/",
+    "verb": "POST",
+    "action":"Add a new project", 
+    "jsonRequestModel" : [
+     {
+		"projectid": "001",
+        "projectname": "Ads Progrraming Phase 2",
+        "pmt": 888, 
+        "projectrelease": "001", 
+        "pmname": "blabla",
+        "pmemail": "vfsousa@br.ibm.com",
+        "taname": "Vanderson ferreira de Sousa",
+        "taemail": "vfsousa@br.ibm.com",
+        "description": "teste de criacao",
+        "startdate": "05/10/1990",
+        "enddate": "05/10/1991",
+        "progress":  "yellow"
+    }]
+    },
+    {
+        "address": "/",
+        "verb": "GET",
+        "action":"Retrieve the lista of all projects"
+    },
+    {
+        "address": "/:id",
+        "verb": "GET",
+        "Param": "ID of project",
+        "action":"Retrieve project located by ID"
+    },
+    {
+        "address": "/:id",
+        "verb": "DELETE",
+        "Param": "ID of project",
+        "action":"DELETE project located by ID"
+    },
+    {
+        "address": "/:id",
+        "verb": "PUT",
+        "Param": "ID of project",
+        "action":"UPDATE project information located by ID",
+         "jsonRequestModel" : [
+            {
+                "projectid": "001",
+                "projectname": "Ads Progrraming Phase 2",
+                "pmt": 888, 
+                "projectrelease": "001", 
+                "pmname": "blabla",
+                "pmemail": "vfsousa@br.ibm.com",
+                "taname": "Vanderson ferreira de Sousa",
+                "taemail": "vfsousa@br.ibm.com",
+                "description": "teste de criacao",
+                "startdate": "05/10/1990",
+                "enddate": "05/10/1991",
+                "progress":  "yellow"
+            }]
+    }
+]
+
+
